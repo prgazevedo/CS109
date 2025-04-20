@@ -24,5 +24,3 @@ def roll_dice():
     dice2 = random.randint(1,6)
     return dice1 + dice2
 
-if __name__ == "__main__":
-    main()
