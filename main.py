@@ -2,7 +2,7 @@ import random
 from tqdm import tqdm
 
 N_TRIALS =1000000
-TARGET_SUM = 7
+TARGET_SUM = 2
 
 
 
