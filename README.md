@@ -35,6 +35,8 @@ Each Python script below can be run directly in Replit:
 | Lecture 1 | [CS109 - lecture 1.pdf](notes/CS109%20-%20lecture%201.pdf) |
 | Lecture 2 | [CS109 - lecture 2.pdf](notes/CS109%20-%20lecture%202.pdf) |
 | Lecture 3 | [CS109 - lecture 3.pdf](notes/CS109%20-%20lecture%203.pdf) |
+| Lecture 4 | [CS109 - lecture 4.pdf](notes/CS109%20-%20lecture%204.pdf) |
+
 <!-- Add new notes as they’re exported -->
 
 ---
