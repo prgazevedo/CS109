@@ -3,15 +3,6 @@
 
 This repository contains my handwritten notes, Python simulations, and future problem set solutions for [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/cs109/), based on the [official YouTube lecture playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg).
 
----
-
-## 🧠 Workflow
-
-- I write handwritten lecture notes using iOS Notes + Apple Pencil  
-- I export each note as a PDF and upload it to `notes/`  
-- I write Python simulations and examples in `lectures/`  
-- I use [Replit](https://replit.com/@prgazevedo/CS109-1) to run and test code  
-- I sync everything with GitHub for version control and backup  
 
 ---
 
