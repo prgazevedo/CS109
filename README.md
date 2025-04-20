@@ -30,6 +30,8 @@ Each Python script below can be run directly in Replit:
 
 ## 📝 Handwritten Lecture Notes
 
+GitHub Pages (https://prgazevedo.github.io/CS109/)
+
 | Lecture | Notes PDF |
 |---------|-----------|
 | Lecture 1 | [CS109 - lecture 1.pdf](notes/CS109%20-%20lecture%201.pdf) |
